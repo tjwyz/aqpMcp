@@ -1,0 +1,878 @@
+[
+  {
+    "displayName": "Bed",
+    "parameter": "CB",
+    "isPostBody": false,
+    "value": "ahdebug-westus2-be.exp.xap.binginternal.com:89"
+  },
+  {
+    "displayName": "MNL(FeatureLine)",
+    "parameter": "MNLF",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Flight Line",
+    "parameter": "flight0",
+    "isPostBody": false,
+    "value": "6303"
+  },
+  {
+    "displayName": "Workflow",
+    "parameter": "WF",
+    "isPostBody": false,
+    "value": "BingFirstPageResults"
+  },
+  {
+    "displayName": "Yahoo Flight",
+    "parameter": "YahooFlight",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "TA Traffic Type",
+    "parameter": "TTp",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "AdUnitId",
+    "parameter": "adUnitId",
+    "isPostBody": false,
+    "value": "933"
+  },
+  {
+    "displayName": "PropertyId",
+    "parameter": "propertyId",
+    "isPostBody": false,
+    "value": "3682"
+  },
+  {
+    "displayName": "SafeSearch",
+    "parameter": "adult",
+    "isPostBody": false,
+    "value": 2
+  },
+  {
+    "displayName": "SupportedExtension",
+    "parameter": "SEM",
+    "isPostBody": false,
+    "value": "8786842745717649072"
+  },
+  {
+    "displayName": "Augments",
+    "parameter": "CusAA",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "User Augmentation",
+    "parameter": "UsrAug",
+    "isPostBody": false,
+    "value": null
+  },
+  {
+    "displayName": "Enable RealtimeLog",
+    "parameter": "EnableRealtimeLog",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Enable Queene DbgXml",
+    "parameter": "QueeneAcr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "ML_Count",
+    "parameter": "ML_C",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "SB_Count",
+    "parameter": "SB_C",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "MD_Count",
+    "parameter": "MD_Count",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "BT_Count",
+    "parameter": "BT_Count",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Rich Ads",
+    "parameter": "RAISEn",
+    "isPostBody": false,
+    "value": true
+  },
+  {
+    "displayName": "Personalize Off",
+    "parameter": "PersonalizeOff",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Xlite Flight",
+    "parameter": "xliteflt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Enable AppInstall Ad",
+    "parameter": "EnableAppInstallAd",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "IncludeQAS",
+    "parameter": "IncludeQAS",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "All Variant Allocation",
+    "parameter": "AVA",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Enable Variant Generation",
+    "parameter": "EnVG",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Enable Variant Generation All AdVariants",
+    "parameter": "EnVGAllVar",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Dump PageArbitrator Data",
+    "parameter": "dppadata",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Enable Cashback",
+    "parameter": "encashback",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "ShopTheLook",
+    "parameter": "shtlok",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "EnableShopTheLookAds",
+    "parameter": "enslad",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "DisableWoodBlockExplore",
+    "parameter": "DisableWoodBlock",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "WPOAugments",
+    "parameter": "WPOAugs",
+    "isPostBody": false,
+    "value": "All=1 Verbose=1"
+  },
+  {
+    "displayName": "FeatureOverrides",
+    "parameter": "FeatureOverrides",
+    "isPostBody": false,
+    "value": "6:QBLH"
+  },
+  {
+    "displayName": "PclickDllLogLevel",
+    "parameter": "PclickDllLoggingLevel",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Enable UCP Writer For Debug Query",
+    "parameter": "SkipUCPFormCodeCheck",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Vertical",
+    "parameter": "Vertical",
+    "isPostBody": false,
+    "value": "web"
+  },
+  {
+    "displayName": "VerticalAdsSupportedBitMask",
+    "parameter": "VASBM",
+    "isPostBody": false,
+    "value": "770"
+  },
+  {
+    "displayName": "VerticalAdsDisclaimerSupportedBitmask",
+    "parameter": "VADSBM",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "VAExtensionMask",
+    "parameter": "VAExtM",
+    "isPostBody": false,
+    "value": "14399"
+  },
+  {
+    "displayName": "Bing VariantConstraint Features(, separated)",
+    "parameter": "BingFeatures",
+    "isPostBody": false,
+    "value": null
+  },
+  {
+    "displayName": "CustomVariantConstraint",
+    "parameter": "VariantConstraint",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Xap Experiment",
+    "parameter": "Xap",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Traffic Partition Code",
+    "parameter": "rpsid",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "FormCode",
+    "parameter": "FormCode",
+    "isPostBody": false,
+    "value": "MONITR"
+  },
+  {
+    "displayName": "Url Referer",
+    "parameter": "referer",
+    "isPostBody": false,
+    "value": null
+  },
+  {
+    "displayName": "Query Type",
+    "parameter": "QueryType",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "ImpressionId (IGUID)",
+    "parameter": "ImpressionId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Remove AdAssets",
+    "parameter": "RemoveAdAssets",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Latitude",
+    "parameter": "locLat",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Longitude",
+    "parameter": "locLon",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Radius",
+    "parameter": "locRad",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "LocList",
+    "parameter": "LLDN",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "UserIP",
+    "parameter": "userIP",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Market",
+    "parameter": "market",
+    "isPostBody": false,
+    "value": "en-US"
+  },
+  {
+    "displayName": "Country/Region",
+    "parameter": "Country",
+    "isPostBody": false,
+    "value": "190"
+  },
+  {
+    "displayName": "State",
+    "parameter": "State",
+    "isPostBody": false,
+    "value": "4132"
+  },
+  {
+    "displayName": "County",
+    "parameter": "County",
+    "isPostBody": false,
+    "value": "115823"
+  },
+  {
+    "displayName": "City",
+    "parameter": "City",
+    "isPostBody": false,
+    "value": "67731"
+  },
+  {
+    "displayName": "Neighborhood",
+    "parameter": "Nbh",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "ZipCode",
+    "parameter": "ZipCode",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Age",
+    "parameter": "AgeTarget",
+    "isPostBody": false,
+    "value": "0"
+  },
+  {
+    "displayName": "Gender",
+    "parameter": "GenderTarget",
+    "isPostBody": false,
+    "value": "0"
+  },
+  {
+    "displayName": "MUID",
+    "parameter": "MUID",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "ANID",
+    "parameter": "ANID",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "StableUserId",
+    "parameter": "StableUId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "UserAgent",
+    "parameter": "userAgent",
+    "isPostBody": false,
+    "value": "BingAdsClickPredictFakeUserAgent10"
+  },
+  {
+    "displayName": "DVTP",
+    "parameter": "DVTP",
+    "isPostBody": false,
+    "value": "1"
+  },
+  {
+    "displayName": "TP",
+    "parameter": "TP",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "DeviceMake",
+    "parameter": "DMake",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "DeviceModel",
+    "parameter": "DModel",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "DeviceOS",
+    "parameter": "DOS",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "DeviceOSVersion",
+    "parameter": "DOSV",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "DeviceOSID",
+    "parameter": "DOSID",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "DeviceCapabilities Architecture",
+    "parameter": "DCArch",
+    "isPostBody": false,
+    "value": null
+  },
+  {
+    "displayName": "DeviceCapabilities ClientHintsOperatingSystemVersion",
+    "parameter": "DCCHOSV",
+    "isPostBody": false,
+    "value": null
+  },
+  {
+    "displayName": "Rap Override",
+    "parameter": "RCOS",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "AdListing",
+    "parameter": "rapAAAdLi",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "ConfigurationParameters",
+    "parameter": "rapAACfgPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "QueryParameters",
+    "parameter": "rapAAQrPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "RequestParameters",
+    "parameter": "rapAARqPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "RAPOptions",
+    "parameter": "rapAARapOp",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AuctionParametersSettings",
+    "parameter": "rapAAAcPrSt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AuctionDetails",
+    "parameter": "rapAAAcDt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "DeliveryResponse",
+    "parameter": "rapAADlRp",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "BudgetSmoothing",
+    "parameter": "rapAABdgSth",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Ad Ids",
+    "parameter": "rapAAAdId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Listing Ids",
+    "parameter": "rapAALsId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Account Ids",
+    "parameter": "rapAAAccId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Campaign Ids",
+    "parameter": "rapAACmpId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Order Ids",
+    "parameter": "rapAAOrId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "AdListing",
+    "parameter": "rapIPAdLi",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "ConfigurationParameters",
+    "parameter": "rapIPCfgPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "QueryParameters",
+    "parameter": "rapIPQrPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "RequestParameters",
+    "parameter": "rapIPRqPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "RAPOptions",
+    "parameter": "rapIPRapOp",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AuctionParametersSettings",
+    "parameter": "rapIPAcPrSt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AuctionDetails",
+    "parameter": "rapIPAcDt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "DeliveryResponse",
+    "parameter": "rapIPDlRp",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Partition (0-15)",
+    "parameter": "rapIPPrtt",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Max Listing #(1-600)",
+    "parameter": "rapIPMxLs",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Ad Ids",
+    "parameter": "rapIPAdId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Listing Ids",
+    "parameter": "rapIPLsId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Account Ids",
+    "parameter": "rapIPAccId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Campaign Ids",
+    "parameter": "rapIPCmpId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Order Ids",
+    "parameter": "rapIPOrId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "AdListing",
+    "parameter": "rapLAdLi",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "ConfigurationParameters",
+    "parameter": "rapLCfgPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "QueryParameters",
+    "parameter": "rapLQrPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "RequestParameters",
+    "parameter": "rapLRqPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "RAPOptions",
+    "parameter": "rapLRapOp",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AuctionParametersSettings",
+    "parameter": "rapLAcPrSt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AuctionDetails",
+    "parameter": "rapLAcDt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "DeliveryResponse",
+    "parameter": "rapLDlRp",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "ProxyBiddingDebugData",
+    "parameter": "rapLPxBdD",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "RapModelData",
+    "parameter": "rapLRpMdD",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "ExtraDebugData",
+    "parameter": "rapLExtDD",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AdRotation",
+    "parameter": "rapLAdRtt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "Partition (1-64)",
+    "parameter": "rapLPrtt",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Max Listing #(1-600)",
+    "parameter": "rapLMxLs",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Ad Ids",
+    "parameter": "rapLAdId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Listing Ids",
+    "parameter": "rapLLsId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Account Ids",
+    "parameter": "rapLAccId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Campaign Ids",
+    "parameter": "rapLCmpId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Order Ids",
+    "parameter": "rapLOrId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "AdListing",
+    "parameter": "rapAPAdLi",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "ConfigurationParameters",
+    "parameter": "rapAPCfgPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "QueryParameters",
+    "parameter": "rapAPQrPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "RequestParameters",
+    "parameter": "rapAPRqPr",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "RAPOptions",
+    "parameter": "rapAPRapOp",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AuctionParametersSettings",
+    "parameter": "rapAPAcPrSt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AuctionDetails",
+    "parameter": "rapAPAcDt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "DeliveryResponse",
+    "parameter": "rapAPDlRp",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AdInfos",
+    "parameter": "rapAPAdIfo",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AdVariants",
+    "parameter": "rapAPAdVrt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AuctionContext",
+    "parameter": "rapAPAtCxt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "PageAssignment",
+    "parameter": "rapAPPaAgt",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AllocationInfo",
+    "parameter": "rapAPAlCifo",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "TargetMachines",
+    "parameter": "ACSRO_TMs",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Traffic Tags",
+    "parameter": "ACSRO_TTs",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Routing GUID",
+    "parameter": "ACSRO_RGs",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "Verbose Logging",
+    "parameter": "ACSRO_VL",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "AccountIds",
+    "parameter": "AcIds",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "DisableFlitration",
+    "parameter": "FiltrationList",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "DisableAllFiltration",
+    "parameter": "DisableAllFiltration",
+    "isPostBody": false,
+    "value": false
+  },
+  {
+    "displayName": "ListingId",
+    "parameter": "DisableFiltrationListingId",
+    "isPostBody": false,
+    "value": ""
+  },
+  {
+    "displayName": "IndexPPluginDllIdentifier",
+    "parameter": "IndexPPluginDllIdentifier",
+    "isPostBody": false,
+    "value": ""
+  }
+]
